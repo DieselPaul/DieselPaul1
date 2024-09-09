@@ -9,7 +9,7 @@ requests==2.31.0
 rich==13.4.1
 toml==0.10.2
 translators==5.9.1
-pyttsx3==2.90
+pyttsx3==2.91
 Pillow==10.3.0
 tomlkit==0.11.8
 Flask==2.3.3
